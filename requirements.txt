@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+pillow
+opencv-python-headless
+torch
+torchvision
+transformers
+accelerate
+yt-dlp
